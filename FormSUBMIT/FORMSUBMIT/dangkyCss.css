@@ -1,0 +1,68 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+body{
+    width: 1010px;
+    margin: auto;
+}
+#top{
+    width: 910px; 
+    height: 120px;
+    margin-bottom: -20px; 
+}
+#top1{
+    width: 900px;
+    height: 20px;
+    background: url("images/canh_hoa.gif");
+    background-position: center;
+    background-repeat: no-repeat;  
+    margin-left: 190px; 
+    margin-bottom: -4px;
+}
+#top2{
+    width: 280px;
+    height: 93px;
+    float: left;
+    background: url("images/Logo.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#top-left{
+    float: left;    
+    width: 500px;
+    height: 100px;
+    background: url("images/cong.gif");
+    background-repeat: no-repeat;  
+   
+}
+
+#left{
+height: 560px;
+width: 200px;
+float: left;
+}
+#left ul li{
+    margin-bottom: -4px;
+}
+#center{
+height: 480px;
+width: 600px;
+float: left;
+border-left: 2px dotted #009966;
+}
+#center form tr td {
+    padding-top: 5px;
+}
+#right{
+height: 560px;
+width: 200px;
+float: left;
+padding-top: 100px;
+}
+#title{
+    font: bold;
+    font-family: Tahoma;
+    font-size: 24px;
+    color: black;
+}
